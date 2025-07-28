@@ -1,5 +1,4 @@
-body[
-         color; White;
-         background; black;
-
-]
+body{
+        color: whitesmoke;
+        background-color: black;
+}

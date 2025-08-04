@@ -2,3 +2,10 @@ body{
         color: whitesmoke;
         background-color: black;
 }
+header{
+border-bottom:solid 2px violet;
+padding: 20px;
+font-size: 32px;
+color: blue;
+
+}

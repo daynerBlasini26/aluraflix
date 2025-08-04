@@ -3,9 +3,9 @@ body{
         background-color: black;
 }
 header{
-border-bottom:solid 2px violet;
-padding: 20px;
-font-size: 32px;
-color: blue;
+border-bottom:solid 2px rgb(194, 50, 194);
+padding: 27px;
+font-size: 33px;
+color: rgb(18, 18, 73);
 
 }
